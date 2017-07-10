@@ -618,7 +618,7 @@ def inverse_warp_restored_region(X,Y_reg,param):
 cls() # clear the console
 print('---------------------------------------------------------------')
 # Define the face id to be considered
-face_id = 5;
+face_id = 13;
 
 # Define the filename of the image to be restored
 img_filename = 'imgs/%d_green.bmp' %(face_id)
